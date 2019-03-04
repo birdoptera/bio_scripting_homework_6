@@ -10,6 +10,6 @@ do
 echo "In the file $f,"
 ~/homework_6/part_1/string_finder_BIRD.sh $f apple
 
-done < words_found.txt
+done > words_found.txt
  
 
