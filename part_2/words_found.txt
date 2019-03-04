@@ -1,0 +1,327 @@
+In the file book_pages/pg1184.txt,
+The word apple was found in this number of lines:
+10
+The word apple was found in these lines:
+14911
+154
+19520
+23902
+25654
+25783
+25841
+25892
+25940
+26172
+In the file book_pages/pg1232.txt,
+The word apple was found in this number of lines:
+0
+The word apple was found in these lines:
+In the file book_pages/pg1322.txt,
+The word apple was found in this number of lines:
+25
+The word apple was found in these lines:
+10588
+10775
+10856
+11259
+11866
+11894
+12023
+12047
+12369
+14782
+16535
+1679
+16908
+17016
+17586
+2133
+3096
+3498
+3522
+5990
+6734
+7034
+7142
+855
+9920
+In the file book_pages/pg135.txt,
+The word apple was found in this number of lines:
+37
+The word apple was found in these lines:
+10028
+10952
+11075
+12097
+12589
+12883
+12937
+12940
+12960
+13122
+13141
+13156
+14790
+14792
+23004
+23009
+30593
+40057
+42089
+42090
+42091
+42097
+42166
+49226
+49236
+50131
+50712
+54284
+57776
+57777
+59476
+6239
+6691
+6769
+7246
+9945
+9947
+In the file book_pages/pg158.txt,
+The word apple was found in this number of lines:
+23
+The word apple was found in these lines:
+10978
+10994
+6104
+695
+7843
+7854
+7857
+7859
+7860
+7885
+7888
+7890
+7893
+7896
+7900
+7912
+7915
+7916
+7920
+7926
+7973
+8157
+8161
+In the file book_pages/pg161.txt,
+The word apple was found in this number of lines:
+0
+The word apple was found in these lines:
+In the file book_pages/pg16328.txt,
+The word apple was found in this number of lines:
+22
+The word apple was found in these lines:
+1148
+1671
+1753
+1876
+2021
+2115
+2402
+2409
+2432
+2775
+2779
+3117
+3354
+3386
+3738
+3784
+3791
+3854
+4713
+4844
+5406
+646
+In the file book_pages/pg1661.txt,
+The word apple was found in this number of lines:
+0
+The word apple was found in these lines:
+In the file book_pages/pg174.txt,
+The word apple was found in this number of lines:
+4
+The word apple was found in these lines:
+5165
+5268
+5401
+8043
+In the file book_pages/pg1952.txt,
+The word apple was found in this number of lines:
+0
+The word apple was found in these lines:
+In the file book_pages/pg2591.txt,
+The word apple was found in this number of lines:
+44
+The word apple was found in these lines:
+129
+134
+136
+141
+203
+2810
+2999
+3000
+3001
+3003
+3066
+3067
+3068
+3586
+4162
+4467
+4473
+4476
+4478
+4512
+5265
+5270
+5275
+5546
+5584
+5585
+5593
+5595
+5597
+5599
+5608
+5612
+5613
+5618
+8024
+8735
+8738
+8743
+8747
+8750
+8755
+8765
+8772
+8773
+In the file book_pages/pg2701.txt,
+The word apple was found in this number of lines:
+15
+The word apple was found in these lines:
+15546
+16943
+20744
+2161
+2164
+2170
+2183
+21888
+2191
+2201
+2207
+2249
+2811
+3979
+4073
+In the file book_pages/pg30254.txt,
+The word apple was found in this number of lines:
+1
+The word apple was found in these lines:
+15114
+In the file book_pages/pg345.txt,
+The word apple was found in this number of lines:
+3
+The word apple was found in these lines:
+429
+6847
+7517
+In the file book_pages/pg4300.txt,
+The word apple was found in this number of lines:
+23
+The word apple was found in these lines:
+11843
+12976
+13342
+13370
+14461
+14465
+16961
+18164
+18866
+21931
+2397
+27410
+29902
+30791
+32102
+32736
+455
+7152
+7241
+7243
+7249
+7730
+7913
+In the file book_pages/pg5200.txt,
+The word apple was found in this number of lines:
+6
+The word apple was found in these lines:
+1302
+1306
+1307
+1308
+1330
+1829
+In the file book_pages/pg6130.txt,
+The word apple was found in this number of lines:
+2
+The word apple was found in these lines:
+19041
+24048
+In the file book_pages/pg74.txt,
+The word apple was found in this number of lines:
+9
+The word apple was found in these lines:
+1009
+1018
+1094
+2973
+3972
+4992
+917
+954
+983
+In the file book_pages/pg76.txt,
+The word apple was found in this number of lines:
+4
+The word apple was found in these lines:
+2969
+2971
+4421
+4595
+In the file book_pages/pg844.txt,
+The word apple was found in this number of lines:
+0
+The word apple was found in these lines:
+In the file book_pages/pg8800.txt,
+The word apple was found in this number of lines:
+9
+The word apple was found in these lines:
+12765
+13266
+13427
+13683
+13907
+15103
+15526
+3975
+8603
+In the file book_pages/pg98.txt,
+The word apple was found in this number of lines:
+2
+The word apple was found in these lines:
+13580
+4351
