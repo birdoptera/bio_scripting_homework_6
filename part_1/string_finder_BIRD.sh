@@ -6,10 +6,10 @@
 
 file="$1"
 word="$2"
-
+echo "The word $2 was found in this number of lines:"
 grep -o $word $file |grep -c $word $file
-grep -ne $word $file | grep -Eo '^[^:]+'
- 
+echo "The word $2 was found in these lines:"
+grep -n $word $file | cut -f1 -d: | sort -u
 #-n flag output in grep and use with cut
 
 #write the script, taking a filename as the first argument
