@@ -8,7 +8,8 @@ file="$1"
 word="$2"
 
 grep -o $word $file |grep -c $word $file
-grep -n $word $file
+grep -ne $word $file | grep -Eo '^[^:]+'
+ 
 #-n flag output in grep and use with cut
 
 #write the script, taking a filename as the first argument
